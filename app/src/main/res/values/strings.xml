@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherAPI_Assignment</string>
+    <string name="zip_code_hint">ZIP code</string>
+    <string name="search_btn_text">Search</string>
+    <string name="today_string">TODAY</string>
+    <string-array name="temperature">
+        <item>Kelvin</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string name="kelvin_temp">Kelvin</string>
+    <string name="fahrenheit_temp">Fahrenheit</string>
+    <string name="celsius_temp">Celsius</string>
+
+</resources>
